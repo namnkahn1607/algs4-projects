@@ -6,10 +6,10 @@ This repository contains my solutions for the programming assignments in the [Al
 | Programming Assignment | Code Solution | Grade | Status |
 | :--- | :--- | :--- | :--- |
 | **Part I** | | | |
-| [Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php) | [`percolation`](percolation) | 91 | 🟦 Refactoring |
-| [Deques and Randomized Queues](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php) | [`queues`](queues) | 100 | 🟥 Private |
-| [Collinear Points](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php) | [`collinear`](collinear) | 100 | 🟥 Private |
-| [8 Puzzle](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php) | [`8puzzle`](8puzzle) | 99 | 🟦 Refactoring |
+| [Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php) | N/A | 91 | 🟦 Refactoring |
+| [Deques and Randomized Queues](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php) | N/A | 100 | 🟥 Private |
+| [Collinear Points](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php) | N/A | 100 | 🟥 Private |
+| [8 Puzzle](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php) | N/A | 99 | 🟦 Refactoring |
 | [Kd-Trees](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php) | [`kdtree`](kdtree) | 98 | 🟦 Refactoring  |
 | **Part II** | | | |
 | [WordNet](https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php) | [`wordnet`](wordnet) | 100 | 🟩 Completed |
